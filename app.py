@@ -4,7 +4,7 @@ class Student() :
   def _new_(self):
     print('Student._new_')
     
-  def _init_(self)
+  def _init_(self):
     print('Student._init_')
     self.gpa = 4.00
 
